@@ -22,8 +22,8 @@
 * See image 'WIRING_CapacitiveSensor_to_Buzzer' for wiring diagram
 * CAPACITIVE SENSOR | ARDUINO NANO | BUZZER
                GND -->    GND   <---- GND
-               SDA -->     A5
-               SCL -->     A4
+               SDA -->     A4
+               SCL -->     A5
              3.3V  -->    3.3V
                            D9 <-100Ohm--POWER
 * SOURCE
