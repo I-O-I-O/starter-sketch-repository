@@ -14,8 +14,8 @@
 * 
 * See image 'WIRING_Code_to_Buzzer' for wiring diagram
 *            BUZZER | ARDUINO NANO
-               GND --> GND
-   POWER -> 100Ohm --> D9
+                GND --> GND
+              POWER ---> D9
  SOURCE
  Written by Michalis Vasilakis (www.ardumotive.com)
  https://www.instructables.com/How-to-use-a-Buzzer-Arduino-Tutorial/

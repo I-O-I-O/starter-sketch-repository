@@ -16,7 +16,6 @@
 * Components required: 
 *  MPR121 (Adafruit) capacitive sensor; 
 *  Piezo Buzzer; 
-*  100Ohm resistor
 *  Arduino Nano BLE 33
 * 
 * See image 'WIRING_CapacitiveSensor_to_Buzzer' for wiring diagram
@@ -25,7 +24,7 @@
                SDA -->     A4
                SCL -->     A5
              3.3V  -->    3.3V
-                           D9 <-100Ohm--POWER
+                           D9  <-------POWER
 * SOURCE
 Capacitve Sensor part based on the code written by 
 Limor Fried/Ladyada for Adafruit Industries (https://www.adafruit.com/products/)
