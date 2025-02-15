@@ -16,8 +16,8 @@
 * See image 'WIRING_CapacitiveSensor_to_Serial' for wiring diagram
 * CAPACITIVE SENSOR | ARDUINO NANO
                GND --> GND
-               SDA --> A5
-               SCL --> A4
+               SDA --> A4
+               SCL --> A5
              3.3V --> 3.3V
 /* SOURCE
 Based on the code Written by 
