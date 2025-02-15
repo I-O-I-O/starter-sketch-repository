@@ -8,6 +8,7 @@
 * like Do Re Mi Fa So La. The Buzzer is activated by the Button
 * Components required: LilyPad ProtoSnap Plus (LilyPad USB Plus with LEDs and Light Sensor).
 * Based on: https://learn.sparkfun.com/tutorials/lilypad-protosnap-plus-activity-guide/9-theremin-project
+* For some guidance on how to sew, you can check out this guide: https://learn.sparkfun.com/tutorials/getting-started-with-lilypad
 * 
 * Extra info here: See video 'LightSensor_to_Buzzer' for a preview of expexted behaviour
 */
