@@ -7,6 +7,7 @@
 * Behaviour: The LEDs are affected by light input. If maximum light, all LEDs will be on in order green, blue, red. If minimum light they will be off.
 * Components required: LilyPad ProtoSnap Plus (LilyPad USB Plus with LEDs and Light Sensor).
 * Based on: https://learn.sparkfun.com/tutorials/lilypad-protosnap-plus-activity-guide/8-led-bar-graph
+* For some guidance on how to sew, you can check out this guide: https://learn.sparkfun.com/tutorials/getting-started-with-lilypad
 * 
 * Extra info here: See video 'LightSensor_to_LEDs' for a preview of expexted behaviour
 */
