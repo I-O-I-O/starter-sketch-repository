@@ -1,4 +1,4 @@
-##Welcome! 
+## Welcome! 
 This section is for those TAs at the IOIO lab who have the honor to inherit this Arduino Educational Platform project ;D 
 
 We include all the files we used to create the existing version, the description of our workflow and future recommencadtion.
