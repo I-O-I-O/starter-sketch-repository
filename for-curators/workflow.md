@@ -16,7 +16,7 @@ The process includes 3 main steps:
 If the current shelves are filled with prototypes, (first of all, great job!) you can always print more shelves. Grab the following files and lasercut them in the workshop!
 
 
-File path: xx/xx/xx
+File path: for-curators/library-instructions.pdf
 
 
 Make sure to print not only the shelf but also the cards to put the samples on!
@@ -35,7 +35,7 @@ First of all:
 
 There you go, now you have the plan for the 3 sketches!
 
-TIPP: **Make it modular!** 
+TIP: **Make it modular!** 
 Our principle was to choose the components and the behavior so that the input-output sketch is the combination of the input sketch and the output sketch.
 > E.g.: CapacitiveSensor_to_Serial (INPUT) prints the value of a capacitive sensor to the serial, whereas Code_to_Buzzer (OUTPUT) buzzes for 1 sec, then stops, then repeats.
 
@@ -47,7 +47,7 @@ Our principle was to choose the components and the behavior so that the input-ou
  Sounds obvious but it saves a lot of time and is more comprehensive for the students to look at the code as a result of building blocks!
 
  ## 1.3. Prepare the parts!
- > Physical
+ ### Physical
 
 * Take a card from the shelf!
 
@@ -56,7 +56,8 @@ Our principle was to choose the components and the behavior so that the input-ou
 * Add the input and the output components to the card!
 
 Until finalizing it, just use häftmassa to stick the components to the card. Also, a general recommendation is to put the output component to the outer part of the card so that the other components don't overlap with its sensor.
- > Digital
+ 
+### Digital
 
 We store all the documentation in the [GitHub repository](https://github.com/I-O-I-O/starter-sketch-repository/tree/main), so make sure to download it! Once you have your local copy, you can start creating the sketch!🥳
 ![Make sure to copy the GitHub repository!](image.png)
@@ -84,7 +85,7 @@ Once you are sure your code works as expected, and is readible, time to create t
 * Use Fritzing!
 * In the Fritzing Wiring, try to make it as close to the physical wiring as possible!
 
-Tipp: to get the Arduino Nano Ble 33 as a Fritzing components, go to the [component's offical page](https://store.arduino.cc/en-se/products/arduino-nano-33-ble?srsltid=AfmBOorG4zY1tAB2yFRSZ2TF11vL5tJmOjZdceUpj33mfkVZKr7Nc4AR)>Documentation>Fritzing IN FZPZ
+Tip: to get the Arduino Nano Ble 33 as a Fritzing components, go to the [component's offical page](https://store.arduino.cc/en-se/products/arduino-nano-33-ble?srsltid=AfmBOorG4zY1tAB2yFRSZ2TF11vL5tJmOjZdceUpj33mfkVZKr7Nc4AR)>Documentation>Fritzing IN FZPZ
 * Save it as:
 
 | Name  | Folder | Format |
