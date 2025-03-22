@@ -1,7 +1,7 @@
 # Workflow
 Here is out process of creating sketches!
 
-**Disclaimer:** it was a fuzzy process so not all our sketches follow the conventions we mention here. Rathe, te recommended conventions are the outcomes of the process of creating all these sketches.
+**Disclaimer:** it was a fuzzy process so not all our sketches follow the conventions we mention here. Rather, the recommended conventions are the outcomes of the process of creating all these sketches.
 
 **Good to know**: Overall, when you make a new card, you create 3 sketches: 1 input sketch, 1 output sketch, 1 input-output sketch.
 
@@ -23,9 +23,10 @@ Make sure to print not only the shelf but also the cards to put the samples on!
 Glue them with wood glue!
 
 ## 1.1. Choose the input and the output COMPONENTS
+Time to get started with a sketch!
+First of all:
 * Look at your feedback from the students/inventory to understand which inputs and outputs are the most needed!
-* Choose an arbitrary (but feasible) 
-combination an INPUT and an OUTPUT!
+* Choose an arbitrary (but feasible) combination an INPUT and an OUTPUT! (e.g. Input: capacitive sensore, Output: buzzer)
 
 
 ## 1.2. Choose the input and the output BEHAVIOR
@@ -57,24 +58,39 @@ Our principle was to choose the components and the behavior so that the input-ou
 Until finalizing it, just use häftmassa to stick the components to the card. Also, a general recommendation is to put the output component to the outer part of the card so that the other components don't overlap with its sensor.
  > Digital
 
-We store all the documentation in the [GitHub repository](https://github.com/I-O-I-O/starter-sketch-repository/tree/main), so make sure to copy the GitHub repository! Once you have your local copy, you can start creating the sketch!🥳
+We store all the documentation in the [GitHub repository](https://github.com/I-O-I-O/starter-sketch-repository/tree/main), so make sure to download it! Once you have your local copy, you can start creating the sketch!🥳
 ![Make sure to copy the GitHub repository!](image.png)
 # 2. Implement!
 The following steps are creating the input, output and input-output sketch. They inlcude the same steps with slight modifications.
 ### 2.1. Create the file!
-| Sketch  | Steps |
-| ------------- |:-------------:|
-| Input     | right foo     |
-| Output     | right bar     |
-|Input-Output      | right baz     |
-* naming conventions
-* COMMIT!
+Once you have your own version of the libary, create your own file in the respective folder: 
+| Sketch  | File Path | Naming Convention|
+| ------------- |:-------------:|:-------------:|
+| Input     | ..\inputs   | INPUT_to_Serial.ino|
+| Output     | ..\outputs     | Code_to_OUTPUT.ino
+|Input-Output      | ..\input-output     | INPUT_to_OUTPUT.ino|
+
 ### 2.2. Write the code!
-* template
+Write the code from the top of your head or by using other sources like stackoverflow or some AI! But don't forget to <ins>credit your sources</ins>! 
+
+**For readability for the students, inlcude some explanation of the code as comments in the beginning!**
+
+**Use this template, and adjust as needed: 
+[for-curators\Input_to_Output_Template](.\Input_to_Output_Template)**
 ### 2.3. Test!
 ### 2.4. Create the wiring!
-* where to create
-* format 
+Once you are sure your code works as expected, and is readible, time to create the wiring!
+
+* Use Fritzing!
+
+Tipp: to get the Arduino Nano Ble 33 as a Fritzing components, go to the [component's offical page](https://store.arduino.cc/en-se/products/arduino-nano-33-ble?srsltid=AfmBOorG4zY1tAB2yFRSZ2TF11vL5tJmOjZdceUpj33mfkVZKr7Nc4AR)>Documentation>Fritzing IN FZPZ
+* Save it as:
+
+| Name  | Folder | Format |
+| ------------- |:-------------:|:-------------:|
+| WIRI NG_name_of_sketch    | same as the .ino file  | JPG (arbitrary just for the sake of consitency)|
+
+
 ### 2.5. Publish it!
 * outcome
 

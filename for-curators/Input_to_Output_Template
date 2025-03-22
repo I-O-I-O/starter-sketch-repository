@@ -12,8 +12,12 @@
 * 
 * See image 'WIRING_CapacitiveSensor_to_Buzzer' for wiring diagram
 *           INPUT | ARDUINO| OUTPUT
+             pin -->  pin 
+             pin -->  pin 
              pin -->  pin  
-                      pin <-------pin
+                      pin <---pin
+                      pin <---pin
+                      pin <---pin
 * SOURCE
 
 */
