@@ -82,21 +82,35 @@ Write the code from the top of your head or by using other sources like stackove
 Once you are sure your code works as expected, and is readible, time to create the wiring!
 
 * Use Fritzing!
+* In the Fritzing Wiring, try to make it as close to the physical wiring as possible!
 
 Tipp: to get the Arduino Nano Ble 33 as a Fritzing components, go to the [component's offical page](https://store.arduino.cc/en-se/products/arduino-nano-33-ble?srsltid=AfmBOorG4zY1tAB2yFRSZ2TF11vL5tJmOjZdceUpj33mfkVZKr7Nc4AR)>Documentation>Fritzing IN FZPZ
 * Save it as:
 
 | Name  | Folder | Format |
 | ------------- |:-------------:|:-------------:|
-| WIRI NG_name_of_sketch    | same as the .ino file  | JPG (arbitrary just for the sake of consitency)|
+| WIRING_name_of_sketch    | same as the .ino file  | JPG (arbitrary just for the sake of consitency)|
 
 
 ### 2.5. Publish it!
-* outcome
+Once you have the 
+* folder for the sketch
+    *   .ino file
+    * JPG wiring
+    * optional video of expected behavior,
+
+You are ready to commit to the main folder to make it available to everone! Good job!🎉
 
 # Finalize!
- ## 3.1. Finalize the sketch!
- * glue
- * print label
- * add to library
+ ## 3.1. Additional refining
+ Once you have both the **physical** and **digital sketch**, you might want to glue the components to the card (except the microcontroller!), as well, as print the wiring and glue it on the bottom of the card!
+
+ > **Print the name of the sketch (same as .ino file) and glue it on the card!**
+
+ Add it to the library! Well done!
  ## 3.2. Get a feedback!
+ Don't forget to ask for feedback from students about any aspect of the project: how usable is the code? what is missing? how hard is it to find a sketch?
+
+ Keep track of these feedbacks as they can guide you in choosing the next sketch to implement!
+ 
+ Happy coding!
